@@ -1,0 +1,32 @@
+{
+    "latest":{
+        "release":"0.0.4",
+        "beta":"0.0.9",
+        "alpha":"0"
+    },
+    "release":{
+        "0.0.4":{
+            "name":"Release-0.0.3",
+            "update":"修复若干BUG\n更换下载源",
+            "url":""
+        },
+        "0.0.3":{
+            "name":"Release-0.0.3",
+            "update":"修复若干BUG",
+            "url":"https://www.minebbs.com/resources/minecraft-mtl.5951/version/20081/download"
+        },
+        "0.0.2":{
+            "name":"Release-0.0.2",
+            "update":"增加自动更新",
+            "url":"https://www.minebbs.com/resources/minecraft-mtl.5951/version/20079/download"
+        }
+    },
+    "beta":{
+        "0.0.1":{
+            "url":""
+        }
+    },
+    "alpha":{
+        "name":"alpha-0"
+    }
+}
