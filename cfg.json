@@ -5,7 +5,7 @@
         "alpha":"0"
     },
     "release":{
-        "0.0.5"{
+        "0.0.5":{
             "name":"Release-0.0.5",
             "update":"修复若干BUG\n增加Java下载\n游戏参数修改",
             "url":"https://www.minebbs.com/resources/minecraft-mtl.5951/version/20104/download"
