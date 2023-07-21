@@ -5,10 +5,15 @@
         "alpha":"0"
     },
     "release":{
+        "0.0.5"{
+            "name":"Release-0.0.5",
+            "update":"修复若干BUG\n增加Java下载\n游戏参数修改",
+            "url":"https://www.minebbs.com/resources/minecraft-mtl.5951/version/20104/download"
+        },
         "0.0.4":{
-            "name":"Release-0.0.3",
+            "name":"Release-0.0.4",
             "update":"修复若干BUG\n更换下载源",
-            "url":""
+            "url":"https://www.minebbs.com/resources/minecraft-mtl.5951/version/20104/download"
         },
         "0.0.3":{
             "name":"Release-0.0.3",
